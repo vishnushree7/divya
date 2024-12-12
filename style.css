@@ -1,0 +1,10 @@
+.baner{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(/shree/shree4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    color: rgb(18, 236, 113);
+}
